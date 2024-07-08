@@ -1,4 +1,4 @@
 # Test-REPOSITORY
-This is a tetst repository for today's session.
-this is the second line. 
-This is a new Branch.
+Here is list of Upcming Projects:
+1. StudyNotion web-app
+2. TicTacToe Game app
